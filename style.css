@@ -1,0 +1,29 @@
+.answers{
+    border: 2px solid rebeccapurple;
+    border-radius: 10px;
+}
+
+.questions{
+    font-family: Verdana;
+}
+
+.button {
+    background-color: rebeccapurple;
+    border: none;
+    color: white;
+    font-size: 17px;
+    border: 1px solid blue;
+    border-radius: 5px;
+}
+
+.head{
+    border-style: double;
+    padding: 8px;
+    border-color: rgb(210, 200, 57);
+    border-width: 8px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+}
